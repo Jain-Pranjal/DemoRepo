@@ -1,0 +1,8 @@
+this is version 1 of my project
+i want to go into commit
+now i am doing some changes
+again doing some changes
+again
+
+changes done 
+this is from master

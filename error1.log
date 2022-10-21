@@ -1,0 +1,2 @@
+this is the second error file which i will ignore by using *.log 
+it will ignore all the files having the extension .log by the .gitignore 
